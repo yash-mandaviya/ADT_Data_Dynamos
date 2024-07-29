@@ -9,9 +9,9 @@ st.set_page_config(
 
 # Define the URLs for the modules
 modules = {
-    "Income Levels by Education": "https://dddemo-m1-income-levels-by-education.streamlit.app",
-    "Employment Trends and Insights": "https://dddemo-m2-employment-trends-and-insights.streamlit.app",
-    "Geographic Education Distribution": "https://dddemo-m3-geographic-education-distribution.streamlit.app"
+    "Income Levels by Education": "https://adtdatadynamos-m1-income-levels-by-education.streamlit.app",
+    "Employment Trends and Insights": "https://adtdatadynamos-m2-employment-trends-and-insights.streamlit.app",
+    "Geographic Education Distribution": "https://adtdatadynamos-m3-geographic-education-distribution.streamlit.app"
 }
 
 # Custom CSS for sidebar
