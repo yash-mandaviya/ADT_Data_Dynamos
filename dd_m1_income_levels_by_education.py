@@ -34,6 +34,8 @@ st.sidebar.markdown("""
 
 st.title("Analyzing Wage Disparities by Education Level in Canada") 
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
 # Display the raw data
 st.write(data)
 
